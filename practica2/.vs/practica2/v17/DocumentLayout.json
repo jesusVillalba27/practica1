@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\practica2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Escritorio\\Practica1\\practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD473DC-9ADE-4347-ADA6-4290A10CC99D}|practica2\\practica2.csproj|d:\\escritorio\\practica1\\practica2\\practica2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BD473DC-9ADE-4347-ADA6-4290A10CC99D}|practica2\\practica2.csproj|solutionrelative:practica2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Escritorio\\Practica1\\practica2\\practica2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "practica2\\MainPage.xaml",
+              "ToolTip": "D:\\Escritorio\\Practica1\\practica2\\practica2\\MainPage.xaml",
+              "RelativeToolTip": "practica2\\MainPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T02:08:16.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
